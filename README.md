@@ -10,7 +10,7 @@
 
 # execute
 
-------------windows------------
+- windows
 
 >Examining Input Parameters
 ```shell
@@ -27,7 +27,7 @@
 .\Interface_windows.exe --yolo_weights weight/flower_weight.onnx --midas_weights weight/midas_v21_small_256.pt --bl_weights weight/bl_weight.pth --up_weights weight/up_weight.pth --input_film test_data/FILM_1 --output_film output.mp4
 ```
 
--------------Linux--------------
+- Linux
 >Examining Input Parameters
 ```shell
  ./Interface_linux.exe --help
