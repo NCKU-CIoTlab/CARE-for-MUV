@@ -5,8 +5,8 @@
 
 # Installation
 
-
-
+>Download the appropriate operating system executable file
+https://drive.google.com/drive/folders/1Facz_7lqcRbamWERzlLP19PYeVjPTqw0?usp=drive_link
 
 # Execution
 
